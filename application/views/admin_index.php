@@ -4,4 +4,4 @@
 
 <p>There are currently <b><?php echo $player_count; ?></b> players in the database.</center></p>
 <p><a href="/auth/logout">Logout</a></p>
-<?php $this->load->view('admin_footer'); ?>
+	<?php $this->load->view('admin_footer'); ?>

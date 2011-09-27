@@ -6,9 +6,9 @@
 <p><b>NOTE: This can NOT be reversed.</b></p>
 
 <p>
-<form>
-<input type="button" value="Clear Database" onclick="window.location.href='clear_database'"> 
-</form>
+	<form>
+		<input type="button" value="Clear Database" onclick="window.location.href='clear_database'"> 
+	</form>
 </p>
 
 <?php $this->load->view('admin_footer'); ?>

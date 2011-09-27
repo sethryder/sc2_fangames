@@ -10,22 +10,22 @@
 </head>
 
 <body>
-<div id="container760"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
-	<div id="header">
-		<h1><a href="signup">Starcraft 2 Fan Games</a></h1>
-		<h2>Play with your favorite players!</h2>
-	</div>
-	<div id="menu"> 
-		<ul>     
-			<li><a class="current" href="signup">Sign Up</a></li>
-			<!-- <li><a href="about">About</a></li> -->
-		</ul>
-	</div>
-	
-	<div id="feature">
-		<h2>Upcoming...</h2>
-		<p>Our next session will be on Friday, August 26th. Signup here for a chance to play!</p>
-	</div>
+	<div id="container760"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
+		<div id="header">
+			<h1><a href="signup">Starcraft 2 Fan Games</a></h1>
+			<h2>Play with your favorite players!</h2>
+		</div>
+		<div id="menu"> 
+			<ul>     
+				<li><a class="current" href="signup">Sign Up</a></li>
+				<!-- <li><a href="about">About</a></li> -->
+			</ul>
+		</div>
 
-	<div id="main">
+		<div id="feature">
+			<h2>Upcoming...</h2>
+			<p>Our next session will be on Friday, August 26th. Signup here for a chance to play!</p>
+		</div>
+
+		<div id="main">
 			<div id="content">

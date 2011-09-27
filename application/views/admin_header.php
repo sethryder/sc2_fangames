@@ -10,19 +10,19 @@
 </head>
 
 <body>
-<div id="container760"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
-	<div id="header">
-		<h1><a href="/index.php">eg Fan Games</a></h1>
-		<h2>Play with your favorite players from Evil Geniuses</h2>
-	</div>
-	<div id="menu"> 
-		<ul>     
-			<li><a class="current" href="/admin">Main</a></li>
-            <li><a href="/admin/players">Get Players</a></li>
-            <li><a href="/admin/clear">Clear Database</a></li>
-            <!-- <li><a href="config">Config</a></li> -->
-		</ul>
-	</div>
+	<div id="container760"><!-- Use"containerfull" for 100% width. For fixed width, use "container980", "container760" or "container600" (the number is the layout width in pixels). -->
+		<div id="header">
+			<h1><a href="/index.php">eg Fan Games</a></h1>
+			<h2>Play with your favorite players from Evil Geniuses</h2>
+		</div>
+		<div id="menu"> 
+			<ul>     
+				<li><a class="current" href="/admin">Main</a></li>
+				<li><a href="/admin/players">Get Players</a></li>
+				<li><a href="/admin/clear">Clear Database</a></li>
+				<!-- <li><a href="config">Config</a></li> -->
+			</ul>
+		</div>
 
-	<div id="main">
+		<div id="main">
 			<div id="content">
